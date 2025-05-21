@@ -63,7 +63,6 @@ The final output is an interactive Tableau dashboard that allows for exploratory
 ## 🧠 Author
 
 **Alessandra Bielli**  
-Data Analyst | Marketing Scientist  
-📍 Philadelphia, PA  
+Data Analyst | Marketing Scientist   
 
 
